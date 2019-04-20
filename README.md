@@ -20,7 +20,7 @@ this will download a pre-built image from Docker Hub and also start Portainer au
 <br>
 <br>
 
-Update Portainer to the latest version with:  
+Update Portainer to the latest version any time with:  
 ```php
 docker pull portainer/portainer
 ```
